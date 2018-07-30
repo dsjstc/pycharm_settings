@@ -1,0 +1,38 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/opt/anaconda3/bin/node">
+      <version-cache version="9.11.0" last-modified="1522928471000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/bin/node" />
+  </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="$USER_HOME$/PycharmProjects/bungdir/conda/bin/python" value="false" />
+        <entry key="$USER_HOME$/PycharmProjects/bungdir/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/PycharmProjects/untitled/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/anaconda3/bin/python" value="true" />
+        <entry key="$USER_HOME$/py3env/bin/python" value="false" />
+        <entry key="/opt/anaconda3/bin/python" value="true" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="$USER_HOME$/PycharmProjects/bungdir/conda/bin/python" value="false" />
+        <entry key="$USER_HOME$/PycharmProjects/untitled/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/anaconda3/bin/python" value="true" />
+        <entry key="$USER_HOME$/py3env/bin/python" value="false" />
+        <entry key="/opt/anaconda3/bin/python" value="true" />
+      </map>
+    </option>
+    <option name="SDK_TO_TRIALTEST">
+      <map>
+        <entry key="$USER_HOME$/PycharmProjects/bungdir/conda/bin/python" value="false" />
+        <entry key="$USER_HOME$/PycharmProjects/untitled/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/anaconda3/bin/python" value="false" />
+        <entry key="$USER_HOME$/py3env/bin/python" value="false" />
+        <entry key="/opt/anaconda3/bin/python" value="false" />
+      </map>
+    </option>
+  </component>
+</application>
