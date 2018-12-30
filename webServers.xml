@@ -11,6 +11,11 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="df5ef483-b7d3-4279-be13-07bbc2944432" name="root@opi:22" url="http:///">
+        <fileTransfer host="opi" port="22" accessType="SFTP" authAgent="true">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
