@@ -1,0 +1,21 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="3c2d69d0-46ba-41c8-9f85-5f57dd87163b" name="at@opi:22" url="http:///">
+        <fileTransfer host="opi" port="22" accessType="SFTP" authAgent="true">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="b45e0438-53fb-4c91-a1b8-b7ff38caef22" name="at@opi:22" url="http:///">
+        <fileTransfer host="opi" port="22" accessType="SFTP" authAgent="true">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="df5ef483-b7d3-4279-be13-07bbc2944432" name="root@opi:22" url="http:///">
+        <fileTransfer host="opi" port="22" accessType="SFTP" authAgent="true">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
